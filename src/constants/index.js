@@ -73,19 +73,21 @@ const techStackImgs = [
 ];
 
 const expCards = [
-  {
-    company: "Builtvisor Pvt Ltd.",
-    logoPath: "/images/logo1.png",
+    {
+    company: "Ryaz.io",
+    logoPath: "/images/logo3.png",
 
-    title: "Software Development Intern ",
-    date: "January 2023 - Aug-2023",
+    title: "Frontend Developer",
+    date: "December 2023 - Current",
     responsibilities: [
-      "Developed a site management web app connecting architects, constructors, and stakeholders.",
-      "Led frontend development, translating UI/UX designs into responsive web pages.",
-      "Focused on delivering a seamless and intuitive user experience.",
+      "Revamped UI and resolved Gestpay payment issues with backend collaboration",
+      "Provided on-call support during live race events in Italy for real-time bug fixes",
+      "Built a high-performance Next.js app with >95% performance score and API integrations",
+      "Used SSR to improve social media previews and reduced load times by 60%",
+      "Optimized UI pages, cutting load times by 50% and boosting efficiency",
     ],
   },
-  {
+    {
     company: "Builtvisor Pvt Ltd.",
     logoPath: "/images/logo2.png",
 
@@ -100,17 +102,15 @@ const expCards = [
     ],
   },
   {
-    company: "Ryaz.io",
-    logoPath: "/images/logo3.png",
+    company: "Builtvisor Pvt Ltd.",
+    logoPath: "/images/logo1.png",
 
-    title: "Frontend Developer",
-    date: "December 2023 - Current",
+    title: "Software Development Intern ",
+    date: "January 2023 - Aug-2023",
     responsibilities: [
-      "Revamped UI and resolved Gestpay payment issues with backend collaboration",
-      "Provided on-call support during live race events in Italy for real-time bug fixes",
-      "Built a high-performance Next.js app with >95% performance score and API integrations",
-      "Used SSR to improve social media previews and reduced load times by 60%",
-      "Optimized UI pages, cutting load times by 50% and boosting efficiency",
+      "Developed a site management web app connecting architects, constructors, and stakeholders.",
+      "Led frontend development, translating UI/UX designs into responsive web pages.",
+      "Focused on delivering a seamless and intuitive user experience.",
     ],
   },
 ];
