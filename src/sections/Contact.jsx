@@ -115,6 +115,7 @@ const Contact = () => {
                     placeholder="How can I help you?"
                     rows="5"
                     required
+                    className="resize-none"
                   />
                 </div>
 

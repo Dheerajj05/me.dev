@@ -177,20 +177,24 @@ const testimonials = [
 
 const socialImgs = [
   {
-    name: "insta",
-    imgPath: "/images/insta.png",
+    name: "linkedin",
+    imgPath: "/images/linkedin.png",
+    url: "https://www.linkedin.com/in/dheeraj-arora/",
   },
-  {
-    name: "fb",
-    imgPath: "/images/fb.png",
+    {
+    name: "medium",
+    imgPath: "/images/medium.png",
+    url: "https://medium.com/@dheeraj05",
   },
   {
     name: "x",
     imgPath: "/images/x.png",
+    url: "https://x.com/spellbounded_05",
   },
-  {
-    name: "linkedin",
-    imgPath: "/images/linkedin.png",
+    {
+    name: "insta",
+    imgPath: "/images/insta.png",
+    url: "https://www.instagram.com/spellbounded_05/",
   },
 ];
 
