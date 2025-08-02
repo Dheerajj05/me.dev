@@ -58,6 +58,10 @@ const techStackImgs = [
     name: "Next.js",
     imgPath: "/images/logos/next.png",
   },
+    {
+    name: "Expo",
+    imgPath: "/images/logos/expo.png",
+  },
   {
     name: "Node.js",
     imgPath: "/images/logos/node.png",
@@ -65,10 +69,6 @@ const techStackImgs = [
   {
     name: "Nest.js",
     imgPath: "/images/logos/nest.png",
-  },
-  {
-    name: "Git",
-    imgPath: "/images/logos/git.svg",
   },
 ];
 
